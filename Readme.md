@@ -21,11 +21,11 @@ You need to first download following by official sites or by clicking below link
 
 #### 1.2 Create a new project and install the dependencies:
 
-You need to download the zip file :
+You need to clone file using :
 <br>
 
 ```
-https://github.com/yashSoni9000/User-Authentication-Management-System.git
+git clone https://github.com/yashSoni9000/User-Authentication-Management-System.git
 ```
 
 Now extract the files and place in your folder and open your terminal and type the command given below:
